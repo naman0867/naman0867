@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Naman Kumar</h1>
+<h3 align="center">Software Developer</h3>
 
-<!--
-**naman0867/naman0867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Focused on building reliable and scalable applications
+* Interested in mobile development, backend systems, and cloud technologies
+* Strong foundation in problem solving and data structures
+
+---
+
+### Experience
+
+* Developing mobile applications using Flutter
+* Working with Firebase for authentication and real-time databases
+* Exploring backend development and system design concepts
+
+---
+
+### Skills
+
+* Programming: C++, Dart, Java
+* Mobile Development: Flutter
+* Backend & Tools: Firebase, Git
+* Currently Learning: Cloud (AWS), Docker
+
+---
+
+### Approach
+
+* Write clean, maintainable, and efficient code
+* Continuously learn and improve through practice
+* Build projects that solve real-world problems
+
+---
+
+### Goals
+
+* Become a well-rounded software engineer
+* Contribute to impactful and scalable products
+* Grow through consistent development and learning
