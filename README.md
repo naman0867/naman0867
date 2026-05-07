@@ -1,43 +1,59 @@
-<h1 align="center">Naman Kumar</h1>
-<h3 align="center">Software Developer</h3>
+# Hi 👋, I'm Naman Kumar
 
----
+### Software Developer | Backend & AI Enthusiast
 
-### About
+Passionate about building scalable applications, backend systems, and AI-powered solutions with a strong focus on problem solving and software engineering fundamentals.
 
-* Focused on building reliable and scalable applications
-* Interested in mobile development, backend systems, and cloud technologies
-* Strong foundation in problem solving and data structures
+## 🚀 About Me
 
----
+* Building real-world applications using Java, Python, Go, and Flutter
+* Interested in backend engineering, AI automation, and cloud technologies
+* Strong foundation in Data Structures & Algorithms
+* Exploring scalable architectures, APIs, and system design
+* Continuously improving through projects, internships, and hands-on development
 
-### Experience
+## 💻 Tech Stack
 
-* Developing mobile applications using Flutter
-* Working with Firebase for authentication and real-time databases
-* Exploring backend development and system design concepts
+### Languages
 
----
+Java • Python • Go • C • Dart • JavaScript • SQL
 
-### Skills
+### Backend & Automation
 
-* Programming: C++, Dart, Java
-* Mobile Development: Flutter
-* Backend & Tools: Firebase, Git
-* Currently Learning: Cloud (AWS), Docker
+REST APIs • FastAPI • API Integration • JSON • n8n
 
----
+### AI / ML
 
-### Approach
+Scikit-learn • Pandas • NumPy • Prompt Engineering • LLMs
 
-* Write clean, maintainable, and efficient code
-* Continuously learn and improve through practice
-* Build projects that solve real-world problems
+### Mobile & Frameworks
 
----
+Flutter • Firebase (Auth & Firestore)
 
-### Goals
+### Cloud & DevOps
 
-* Become a well-rounded software engineer
-* Contribute to impactful and scalable products
-* Grow through consistent development and learning
+AWS • Jenkins • Linux • Git • GitHub
+
+## 🛠 Experience
+
+* Worked on real-time stock market dashboard systems during software engineering internship experience
+* Built AI-powered automation tools using Python and LLM workflows
+* Developed full-stack and backend projects with scalable API-based architecture
+* Worked with databases, Firebase, concurrency, and modern development tools
+
+## 📈 Current Focus
+
+* Backend Development
+* AI Automation Systems
+* Cloud & DevOps
+* System Design
+* Scalable Software Engineering
+
+## 🎯 Goals
+
+* Become a high-impact Software Engineer
+* Build scalable and intelligent products
+* Contribute to innovative engineering teams
+* Continuously learn and solve meaningful problems
+
+> Building with consistency, curiosity, and a focus on real-world impact.
