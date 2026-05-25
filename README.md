@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naman%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Backend%20%26%20AI%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Naman%20Kumar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%26%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Building+Scalable+Backend+Systems;🤖+Crafting+AI-Powered+Automation+Tools;☁️+Cloud+Architecture+%26+API+Design;📱+Cross-Platform+Flutter+Developer;💡+Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&lines=🚀+Building+Scalable+Backend+Systems;🤖+Crafting+AI-Powered+Automation+Tools;☁️+Cloud+Architecture+%26+API+Design;📱+Cross-Platform+Flutter+Developer;🧠+DSA+%7C+System+Design+%7C+Problem+Solver;💡+Always+Learning+%7C+Always+Shipping" alt="Typing SVG" />
 
 <br/>
 
@@ -12,11 +14,11 @@
 
 </div>
 
-<br/>
-
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+---
 
 ## 🧠 About Me
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
 ```yaml
 👤 name    : Naman Kumar
@@ -36,6 +38,20 @@
 ```
 
 <br clear="right"/>
+
+---
+
+## 🌊 Skills Wave
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,go,dart,js,c,flutter&theme=dark&perline=7" />
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,firebase,aws,linux,git,github,docker&theme=dark&perline=7" />
+<br/>
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,postgres,jenkins,vscode,postman,figma&theme=dark&perline=7" />
+
+</div>
 
 ---
 
@@ -77,8 +93,8 @@
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Eng.-00D9FF?style=flat-square&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![Prompt Eng.](https://img.shields.io/badge/Prompt_Eng.-00D9FF?style=flat-square&logo=openai&logoColor=white)
 
 </td>
 </tr>
@@ -106,12 +122,12 @@
 
 <div align="center">
 
-| Project | Tech | Impact |
-|---|---|---|
-| 📈 **Real-time Stock Market Dashboard** | Java · REST APIs · WebSockets | Live market data monitoring system built during internship |
-| 🤖 **AI Automation Pipelines** | Python · LLMs · n8n | Intelligent workflow automation using LLM-powered tools |
-| 🌐 **Full-Stack Backend Systems** | FastAPI · Firebase · SQL | Scalable API-first architecture with concurrent processing |
-| 📱 **Cross-Platform Mobile App** | Flutter · Firebase Auth · Firestore | Real-time data sync with modern UI/UX |
+| &nbsp; | Project | Stack | Impact |
+|:---:|---|---|---|
+| 📈 | **Real-time Stock Market Dashboard** | Java · REST APIs · WebSockets | Live market data monitoring during internship |
+| 🤖 | **AI Automation Pipelines** | Python · LLMs · n8n | Intelligent workflow automation at scale |
+| 🌐 | **Full-Stack Backend Systems** | FastAPI · Firebase · SQL | Scalable API-first architecture |
+| 📱 | **Cross-Platform Mobile App** | Flutter · Firebase Auth · Firestore | Real-time sync with modern UI |
 
 </div>
 
@@ -122,12 +138,10 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=naman0867&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" height="170"/>
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman0867&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="170"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=naman0867&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideNums=ffffff&sideLabels=C9D1D9&dates=888888" width="700"/>
 
@@ -149,61 +163,80 @@
 
 <div align="center">
 
-[![Naman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naman0867&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Naman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naman0867&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true&hide_border=true&area_color=00D9FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🔥 Current Focus
+## 🐍 Contribution Snake
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                    🎯  2025 GOALS                                ║
-╠══════════════════════════════════════════════════════════════════╣
-║  🔧  Master microservices & distributed systems architecture     ║
-║  🤖  Ship production-ready AI automation product                 ║
-║  ☁️   Earn AWS Solutions Architect certification                  ║
-║  📱  Launch Flutter app with 1000+ users                         ║
-║  🧠  Solve 300+ DSA problems on LeetCode                         ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naman0867/naman0867/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naman0867/naman0867/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/naman0867/naman0867/output/github-snake.svg" />
+</picture>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🎯 2025 Goals
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="80%"/>
+
+</div>
+
+| Status | Goal |
+|:---:|---|
+| 🔄 | Master microservices & distributed systems architecture |
+| 🔄 | Ship a production-ready AI automation product |
+| 🔄 | Earn AWS Solutions Architect certification |
+| 🔄 | Launch a Flutter app with 1000+ users |
+| 🔄 | Solve 150+ DSA problems on LeetCode |
+
+---
+
+## 😂 Dev Humor
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/naman0867">
-  <img src="https://img.shields.io/badge/GitHub-%40naman0867-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img height="50" src="https://img.shields.io/badge/GitHub-%40naman0867-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/namankumar001">
-  <img src="https://img.shields.io/badge/LinkedIn-%40namankumar001-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img height="50" src="https://img.shields.io/badge/LinkedIn-Naman%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
 </a>
 &nbsp;
 <a href="mailto:ngarg9003@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-ngarg9003%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img height="50" src="https://img.shields.io/badge/Gmail-ngarg9003%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
 </a>
 
 <br/><br/>
 
-> 💬 *Open to internships, freelance projects, and exciting collaborations.*
-> *Let's build something the world hasn't seen yet.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Open+to+internships%2C+freelance+%26+collaborations;Let%27s+build+something+the+world+hasn%27t+seen+yet+🚀" alt="footer typing" />
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
-
 <div align="center">
 
-**⭐ Star my repos if you find them useful — it really motivates me! 🙌**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 </div>
