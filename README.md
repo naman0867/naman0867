@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&lines=🚀+Building+Scalable+Backend+Systems;🤖+Crafting+AI-Powered+Automation+Tools;☁️+Cloud+Architecture+%26+API+Design;📱+Cross-Platform+Flutter+Developer;🧠+DSA+%7C+System+Design+%7C+Problem+Solver;💡+Always+Learning+%7C+Always+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=🚀+Building+Scalable+Backend+Systems;🤖+Crafting+AI-Powered+Automation+Tools;☁️+Cloud+Architecture+%26+API+Design;📱+Cross-Platform+Flutter+Developer;🧠+DSA+%7C+System+Design+%7C+Problem+Solver;💡+Always+Learning+%7C+Always+Shipping" alt="Typing SVG" />
 
 <br/>
 
@@ -23,7 +23,7 @@
 ```yaml
 👤 name    : Naman Kumar
 🏷️  alias   : Namanhack
-📍 location: India 🇮🇳
+📍 location: India 🇮🇳 · Bali, Indonesia 🇮🇩
 💼 role    : Software Developer · Backend & AI Enthusiast
 
 🔭 currently:
@@ -183,7 +183,7 @@
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 <div align="center">
 
@@ -197,7 +197,7 @@
 | 🔄 | Ship a production-ready AI automation product |
 | 🔄 | Earn AWS Solutions Architect certification |
 | 🔄 | Launch a Flutter app with 1000+ users |
-| 🔄 | Solve 150+ DSA problems on LeetCode |
+| 🔄 | Solve 650+ DSA problems on LeetCode |
 
 ---
 
@@ -229,7 +229,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Open+to+internships%2C+freelance+%26+collaborations;Let%27s+build+something+the+world+hasn%27t+seen+yet+🚀" alt="footer typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Open+to+internships%2C+freelance+%26+collaborations;Let%27s+build+something+the+world+hasn%27t+seen+yet+🚀" alt="footer typing" />
 
 </div>
 
