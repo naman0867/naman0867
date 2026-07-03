@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Naman%20Kumar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%26%20AI%20Enthusiast&descAlignY=58&descSize=18&v=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Naman%20Kumar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%26%20AI%20Enthusiast&descAlignY=58&descSize=18&v=3" width="100%"/>
 
 <br/>
 
@@ -153,7 +153,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=naman0867&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=naman0867&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7&v=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
