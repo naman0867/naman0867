@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=🚀+Building+Scalable+Backend+Systems;🤖+Crafting+AI-Powered+Automation+Tools;☁️+Cloud+Architecture+%26+API+Design;📱+Cross-Platform+Flutter+Developer;🧠+DSA+%7C+System+Design+%7C+Problem+Solver;💡+Always+Learning+%7C+Always+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=🚀+Building+Scalable+Backend+Systems;🤖+Crafting+AI-Powered+Automation+Tools;☁️+Cloud+Architecture+%26+API+Design;📱+Cross-Platform+Flutter+Developer;🧠+DSA+%7C+System+Design+%7C+Problem+Solver;💡+Always+Learning+%7C+Always+Shipping" alt="Typing SVG" />
 
 <br/>
 
@@ -137,9 +137,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=naman0867&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naman0867&theme=tokyonight" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman0867&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naman0867&theme=tokyonight" height="170"/>
 
 <br/>
 
@@ -229,7 +229,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Open+to+internships%2C+freelance+%26+collaborations;Let%27s+build+something+the+world+hasn%27t+seen+yet+🚀" alt="footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Open+to+internships%2C+freelance+%26+collaborations;Let%27s+build+something+the+world+hasn%27t+seen+yet+🚀" alt="footer typing" />
 
 </div>
 
