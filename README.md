@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Naman%20Kumar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%26%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Naman%20Kumar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%26%20AI%20Enthusiast&descAlignY=58&descSize=18&v=2" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=🚀+Building+Scalable+Backend+Systems;🤖+Crafting+AI-Powered+Automation+Tools;☁️+Cloud+Architecture+%26+API+Design;📱+Cross-Platform+Flutter+Developer;🧠+DSA+%7C+System+Design+%7C+Problem+Solver;💡+Always+Learning+%7C+Always+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Building+Scalable+Backend+Systems;%F0%9F%A4%96+Crafting+AI-Powered+Automation+Tools;%E2%98%81%EF%B8%8F+Cloud+Architecture+%26+API+Design;%F0%9F%93%B1+Cross-Platform+Flutter+Developer;%F0%9F%A7%A0+DSA+%7C+System+Design+%7C+Problem+Solver;%F0%9F%92%A1+Always+Learning+%7C+Always+Shipping&v=2" alt="Typing SVG" />
 
 <br/>
 
@@ -187,7 +187,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&v=2" width="80%"/>
 
 </div>
 
@@ -229,7 +229,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Open+to+internships%2C+freelance+%26+collaborations;Let%27s+build+something+the+world+hasn%27t+seen+yet+🚀" alt="footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Open+to+internships%2C+freelance+%26+collaborations;Let%27s+build+something+the+world+hasn%27t+seen+yet+%F0%9F%9A%80&v=2" alt="footer typing" />
 
 </div>
 
@@ -237,6 +237,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65&v=2" width="100%"/>
 
 </div>
